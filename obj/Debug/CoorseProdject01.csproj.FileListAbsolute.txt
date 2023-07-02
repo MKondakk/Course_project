@@ -1,0 +1,14 @@
+D:\ХНУРЭ\ООП\CoorseProdject01\bin\Debug\CoorseProdject01.exe.config
+D:\ХНУРЭ\ООП\CoorseProdject01\bin\Debug\CoorseProdject01.exe
+D:\ХНУРЭ\ООП\CoorseProdject01\bin\Debug\CoorseProdject01.pdb
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.csprojAssemblyReference.cache
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.Properties.Resources.resources
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.csproj.GenerateResource.cache
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.csproj.CoreCompileInputs.cache
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.exe
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.pdb
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.SignUpForm.resources
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.MenuForm.resources
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.Classes.Form1.resources
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.AddForm.resources
+D:\ХНУРЭ\ООП\CoorseProdject01\obj\Debug\CoorseProdject01.SaveForm1.resources
